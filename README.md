@@ -29,3 +29,5 @@ Developed a responsive and interactive UI using React and Tailwind CSS.
 Integrated image upload functionality to enhance posts.
 Enabled real-time chat with socket.io for seamless communication.
 Ensured data integrity and persistence using MongoDB and Express.
+
+project-vide : https://www.linkedin.com/posts/harsh-jain-882214243_internship-reactjs-webdevelopment-activity-7220435269496238080--ZBN?utm_source=share&utm_medium=member_desktop
