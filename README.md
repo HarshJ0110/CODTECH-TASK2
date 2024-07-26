@@ -1,7 +1,7 @@
 CODTECH-TASK2
 
 Name: HARSH JAIN 
-Company: CODETECH IT SOLUTION 
+Company: CODTECH IT SOLUTION 
 ID: CT4FSWD2923
 Domain: FULL-STACK DEVELOPMENT 
 Duration: 20th June - 20th July
@@ -18,16 +18,16 @@ One-to-One Chat: Real-time messaging with other users using socket.io.
 
 Technologies Used
 React: For building a dynamic and responsive user interface.
-Tailwind CSS: To ensure a modern and visually appealing design.
+Chakra UI: To ensure a modern and visually appealing design.
 Express & Node.js: For creating a robust backend and handling server-side logic.
 MongoDB: To manage and store user data and posts.
 Socket.io: For real-time chat functionality.
 
 Project Highlights
 Implemented secure user authentication and authorization.
-Developed a responsive and interactive UI using React and Tailwind CSS.
+Developed a responsive and interactive UI using React and Chakra UI.
 Integrated image upload functionality to enhance posts.
 Enabled real-time chat with socket.io for seamless communication.
 Ensured data integrity and persistence using MongoDB and Express.
 
-project-vide : https://www.linkedin.com/posts/harsh-jain-882214243_internship-reactjs-webdevelopment-activity-7220435269496238080--ZBN?utm_source=share&utm_medium=member_desktop
+project-video : https://www.linkedin.com/posts/harsh-jain-882214243_internship-reactjs-webdevelopment-activity-7220435269496238080--ZBN?utm_source=share&utm_medium=member_desktop
